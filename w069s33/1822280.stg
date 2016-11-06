@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Airport/ndb.ac -68.792611 -32.854944 703.08 180
+OBJECT_SHARED Models/Airport/ils.xml -68.791722 -32.841472 706.49 0.5
+OBJECT_SHARED Models/Communications/vordme_1.xml -68.791694 -32.841472 706.48 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -68.790833 -32.831944 706.25 180
+OBJECT_SHARED Models/Airport/marker.ac -68.792611 -32.854944 703.08 180
+OBJECT_SHARED Models/Airport/localizer.xml -68.792639 -32.816692 701.29 90.72
