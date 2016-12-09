@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.3546181 -33.5984571 60.27 336
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.3587386 -33.5985086 60.15 336
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.3573107 -33.5955024 61.08 336
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.355718 -33.5927585 61.31 340
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.3541235 -33.5947502 59.46 336
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.3247677 -33.5367659 52.73 336
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.3229021 -33.5335615 51.58 340
+OBJECT_SHARED Models/Trees/line_trees.xml -60.3235675 -33.5377144 52.83 336
+OBJECT_SHARED Models/Trees/line_trees.xml -60.3218249 -33.5345447 51.34 335.8

@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.2279388 -33.9923454 55.51 240
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.2271455 -33.9914542 54.71 240
+OBJECT_SHARED Models/Trees/line_trees.xml -60.2324652 -33.9899228 54.26 56
+OBJECT_SHARED Models/Trees/line_trees.xml -60.2249128 -33.9941811 56.99 56
