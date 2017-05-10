@@ -1,6 +1,7 @@
 OBJECT_SHARED Models/Airport/beacon.xml -61.5038969 -34.4715815 90.35 0
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -61.5014324 -34.4712951 89.44 284
 OBJECT_SHARED Models/Airport/grille.xml -61.5039755 -34.4714093 90.33 192
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.662762 -34.4588 98.08 285
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac -61.5033401 -34.4715316 90.14 96
 OBJECT_SHARED Models/Agriculture/farmhouse2.ac -61.5039473 -34.4718206 90.44 280
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.504181 -34.460686 92.07 0
