@@ -7,10 +7,10 @@ OBJECT_SHARED Models/Airport/grille.xml -60.4795118 -35.1477703 63.7 352
 OBJECT_SHARED Models/Airport/grille.xml -60.47947 -35.1468552 63.26 352
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.4883747 -35.1307796 59.5 0
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.4862439 -35.1264087 59.39 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -60.4843439 -35.1407449 59.5 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -60.4838075 -35.1403956 59.63 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -60.483551 -35.1414277 59.4 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -60.4834055 -35.1408894 59.54 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -60.4843439 -35.1407449 59.5 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -60.4838075 -35.1403956 59.63 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -60.483551 -35.1414277 59.4 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -60.4834055 -35.1408894 59.54 0
 OBJECT_SHARED Models/Trees/lipa_large.xml -60.483444 -35.1420304 59.26 0
 OBJECT_SHARED Models/Trees/lipa_large.xml -60.4832981 -35.1421633 59.25 0
 OBJECT_SHARED Models/Trees/lipa_large.xml -60.4830617 -35.1421212 59.34 0

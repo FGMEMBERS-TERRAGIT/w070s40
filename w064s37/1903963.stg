@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Residential/suburban-area.xml -63.075786 -36.5710691 123.66 44
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.0882641 -36.571807 121.39 320
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.0859528 -36.5756359 119.79 316
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.0836769 -36.5680533 121.89 320

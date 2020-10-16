@@ -58,7 +58,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -60.2002483 -33.3873462 2
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -60.200051 -33.3874039 27.39 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -60.1999359 -33.3875761 27.35 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -60.1998954 -33.3876921 27.33 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -60.2015381 -33.3886583 27.91 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -60.2015381 -33.3886583 27.91 0
 OBJECT_SHARED Models/Airport/EDDI-Taxilamp.xml -60.203227 -33.3912002 28.43 0
 OBJECT_SHARED Models/Airport/EDDI-Taxilamp.xml -60.2029516 -33.3910906 28.28 0
 OBJECT_SHARED Models/Airport/EDDI-Taxilamp.xml -60.2026752 -33.390989 28.2 0
