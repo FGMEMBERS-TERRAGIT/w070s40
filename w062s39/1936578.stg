@@ -1,1 +1,9 @@
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.3101691 -38.9834067 8.67 4
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.296433 -38.9830874 13.34 92
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.2796839 -38.9836868 5.06 0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.2886106 -38.9808525 7.43 0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.2880049 -38.9820892 6.74 0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.2875144 -38.9831291 8.81 0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.286193 -38.9863601 9.9 0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.2858585 -38.9870272 8.34 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -61.2599415 -38.9907911 9.18 0

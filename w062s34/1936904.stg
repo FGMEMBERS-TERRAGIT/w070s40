@@ -9,11 +9,11 @@ OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.9767134 -33.7501415 1
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.9743255 -33.7585416 109.63 312
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac -61.9754319 -33.7765164 113.59 312
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac -61.9752639 -33.7763445 113.61 24
-OBJECT_SHARED Models/Trees/egkk_woods.xml -61.9689111 -33.7750879 114.14 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -61.9673871 -33.7745704 111.9 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -61.9668862 -33.7742044 112.15 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -61.9658754 -33.7738445 112.81 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -61.9657398 -33.7735512 112.8 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -61.9689111 -33.7750879 114.14 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -61.9673871 -33.7745704 111.9 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -61.9668862 -33.7742044 112.15 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -61.9658754 -33.7738445 112.81 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -61.9657398 -33.7735512 112.8 0
 OBJECT_SHARED Models/Trees/lipa.xml -61.9773194 -33.7777404 113.95 0
 OBJECT_SHARED Models/Trees/lipa.xml -61.9773147 -33.7770173 114.57 0
 OBJECT_SHARED Models/Trees/lipa.xml -61.9771548 -33.7777816 113.79 0
